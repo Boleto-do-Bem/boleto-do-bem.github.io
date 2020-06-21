@@ -1,0 +1,29 @@
+Pessoas
+=======
+
+Cauane Andrade
+--------------
+* Back End
+* Documentação
+
+Leandro Bueno
+-------------
+* Back End
+* Devops
+* Deploy
+
+Lucy Brandão
+------------
+* Front End
+
+Maria Oliveira
+--------------
+* Back End
+* Banco de Dados
+* Documentação
+* Metodologia Ágil
+
+Pedro Fernandes
+---------------
+* Back End
+* Testes

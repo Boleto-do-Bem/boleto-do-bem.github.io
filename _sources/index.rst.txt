@@ -1,0 +1,19 @@
+.. Boleto Do Bem documentation master file, created by
+   sphinx-quickstart on Fri Jun 19 01:22:21 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+#########################################
+Esta é a documentação do Boleto Do Bem =)
+#########################################
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Conteúdo:
+
+   conteudo/sobre
+   conteudo/pessoas
+   conteudo/especificacoes-tecnicas
+   conteudo/regras-de-negocio
+   conteudo/termos-e-condicoes
+   conteudo/politica-de-dados

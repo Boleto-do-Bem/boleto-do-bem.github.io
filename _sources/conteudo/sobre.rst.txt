@@ -1,0 +1,6 @@
+Sobre
+=====
+
+O ​BOLETO DO BEM é uma plataforma online que visa a facilitar a transferência de renda para pessoas em situação de vulnerabilidade social, através do pagamento de contas de serviços essenciais - água, luz, gás, e IPTU, por pessoas voluntárias com disponibilidade financeira.
+
+Por meio da plataforma, as pessoas que precisam de ajuda publicam os dados dos boletos (número do código de barras, data de vencimento), e as pessoas que querem ajudar escolhem boletos para pagar.

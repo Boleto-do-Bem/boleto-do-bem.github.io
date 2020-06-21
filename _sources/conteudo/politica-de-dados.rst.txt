@@ -1,0 +1,40 @@
+Política de Dados
+=================
+
+Esta política descreve as informações que processamos para viabilizar as operações do Boleto do Bem.
+
+Quais tipos de informações coletamos?
+-------------------------------------
+Para fornecer os Serviços da plataforma, precisamos processar informações sobre você, descritas abaixo.
+
+
+Informações gerais que você fornece no cadastro
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Nome: Além da identificação no cadastro, o seu nome e a primeira letra de seu sobrenome aparecerão na identificação de solicitantes ou pagadores, nas listagens de boletos.
+* E-mail: é utilizado para ter acesso à plataforma. Não é divulgado para demais as pessoas registradas.
+
+
+Informações e conteúdo que você fornece como Solicitante
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Código de Endereçamento Postal (CEP): usamos para identificar a sua região. Apenas o nome de sua cidade aparecerá na listagem de boletos.
+* Foto: é utilizada para dar um rosto ao seu boleto. Mais do que apenas um boleto, pagadores estarão ajudando uma pessoa de verdade.
+* Data de nascimento: usamos para regular o envio de fotos por menores de idade.
+
+Seu uso
+"""""""
+Coletamos informações de data e horário em que é cadastrado um novo boleto, o valor da conta a ser paga, código de barras, tipo de conta e data de vencimento.
+
+Os seus dados não são compartilhados com terceiros, e podem ser utilizados para melhorarmos a usabilidade do sistema.
+
+Como notificaremos você sobre mudanças nesta política?
+------------------------------------------------------
+
+Notificaremos você antes de fazer alterações nesta política e daremos a oportunidade de analisar a política revisada antes de decidir continuar usando nosso Serviço.
+
+Como entrar em contato com o Boleto do Bem em caso de dúvidas ou sugestões
+--------------------------------------------------------------------------
+Você pode entrar em contato conosco pelo e-mail contatoboletobem@groups.outlook.com
+
+Data da última revisão: 20 de junho de 2020.

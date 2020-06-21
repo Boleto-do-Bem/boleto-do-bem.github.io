@@ -1,0 +1,18 @@
+Regras de Negócio
+=================
+
+Perfis de Usuário
+-----------------
+* Anônimo
+* Logado
+
+Tipos de Boletos Aceitos
+------------------------
+Boletos cujos segmentos identificados na representação numérica (posção 2 - segmento) sejam:
+
+* 1 - Prefeituras
+
+* 2 - Saneamento
+
+* 3 - Energia Elétrica e Gás
+

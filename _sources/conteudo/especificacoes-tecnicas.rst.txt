@@ -1,0 +1,29 @@
+Especificações Técnicas
+=======================
+
+Back End
+--------
+* Django Rest Framework
+
+Front End
+---------
+* Vue.js - Quasar
+
+Banco de Dados
+--------------
+* Desenvolvimento: sqlite
+* Produção: PostgreSQL
+* Hospedado na AWS
+
+ERD
+"""
+.. image:: ../_static/ERD.png
+  :width: 400
+
+Deploy
+------
+* Atualmente em Heroku - será migrado para AWS
+
+Versionamento
+-------------
+ GitHub
