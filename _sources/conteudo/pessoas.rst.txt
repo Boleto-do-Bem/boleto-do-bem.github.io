@@ -15,6 +15,11 @@ Leandro Bueno
 Lucy Brandão
 ------------
 * Front End
+* Web Designer
+
+Marcelo Tambalo
+---------------
+* Consultor Fullstack
 
 Maria Oliveira
 --------------
