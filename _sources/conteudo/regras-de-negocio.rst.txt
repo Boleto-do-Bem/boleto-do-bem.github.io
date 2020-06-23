@@ -8,7 +8,7 @@ Perfis de Usuário
 
 Tipos de Boletos Aceitos
 ------------------------
-Boletos cujos segmentos identificados na representação numérica (posção 2 - segmento) sejam:
+Boletos cujos segmentos identificados na representação numérica (posição 2 - segmento) sejam:
 
 * 1 - Prefeituras
 
