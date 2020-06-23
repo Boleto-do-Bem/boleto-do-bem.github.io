@@ -5,17 +5,36 @@ Cauane Andrade
 --------------
 * Back End
 * Documentação
+.. image:: ../_static/git_icon.svg
+  :width: 20
+  :target: https://github.com/CauaneAndrade
+
+.. image:: ../_static/linkedin_icon.png
+  :width: 20
+  :target: https://www.linkedin.com/in/cauane-andrade/
 
 Leandro Bueno
 -------------
 * Back End
 * Devops
 * Deploy
+.. image:: ../_static/git_icon.svg
+  :width: 20
+  :target: https://github.com/LLBueno
+.. image:: ../_static/linkedin_icon.png
+  :width: 20
+  :target: https://www.linkedin.com/in/leandro-lopes-bueno/
 
 Lucy Brandão
 ------------
 * Front End
 * Web Designer
+.. image:: ../_static/git_icon.svg
+  :width: 20
+  :target: https://github.com/LucyBrandao
+.. image:: ../_static/linkedin_icon.png
+  :width: 20
+  :target: https://www.linkedin.com/in/lucy-brandao/
 
 Marcelo Tambalo
 ---------------
@@ -27,8 +46,20 @@ Maria Oliveira
 * Banco de Dados
 * Documentação
 * Metodologia Ágil
+.. image:: ../_static/git_icon.svg
+  :width: 20
+  :target: https://github.com/oliveiramclaraa
+.. image:: ../_static/linkedin_icon.png
+  :width: 20
+  :target: https://www.linkedin.com/in/oliveira-mclaraa/
 
 Pedro Fernandes
 ---------------
 * Back End
 * Testes
+.. image:: ../_static/git_icon.svg
+  :width: 20
+  :target: https://github.com/pedrohcf3141
+.. image:: ../_static/linkedin_icon.png
+  :width: 20
+  :target: https://www.linkedin.com/in/pedrohcfernandes314/
